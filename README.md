@@ -13,3 +13,8 @@ This project is a Power BI dashboard created using sales data to analyze:
 - Data Modeling
 - DAX Measures
 - Interactive Visualizations.
+
+# Dashboard Screenshots
+- Dashboard Overview
+- dashboard_preview(1).png
+- dashboard_preview(2).png
